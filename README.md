@@ -2,10 +2,10 @@
 
 ![Build Status](https://img.shields.io/badge/Build-Pass-green)
 ![commit status](https://img.shields.io/github/last-commit/rahul-gothwal/Gsheet-api)
-***
 
 
 By using this script in google app script editor you can use the data present in spreadsheet as a data endpoint for webapplicaitons.
+
 ---
 
 
